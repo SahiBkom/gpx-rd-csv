@@ -1,0 +1,10 @@
+[package]
+name = "gpx-rd-csv"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gpx = "0.8.6"
+rijksdriehoek = "0.1.0"
+# xmlparser = "0.13.5"
+quick-xml = "0.26.0"
